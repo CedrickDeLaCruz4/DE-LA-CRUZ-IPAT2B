@@ -1,0 +1,23 @@
+<?php
+
+$x = 10;
+
+$y = 4;
+
+// Performs Arithmetic operations
+
+// and display the result
+
+echo ($x + $y). "\n";
+
+echo ($x - $y). "\n";
+
+echo ($x * $y). "\n";
+
+echo ($x / $y). "\n";
+
+echo ($x ** $y). "\n";
+
+echo ($x % $y);
+
+?>
